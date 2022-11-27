@@ -52,7 +52,7 @@ The library is written in C, so it needs the gcc compiler as well has the stdarg
 
 <br><br>
 
-## Related Project
+## Related Projects
 
 + [42-get_next_line](https://github.com/affmde/42-get_next_line)
 + [42-born2beroot](https://github.com/affmde/42-born2beroot)
